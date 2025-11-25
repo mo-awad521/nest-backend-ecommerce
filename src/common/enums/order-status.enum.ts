@@ -1,0 +1,9 @@
+export enum OrderStatus {
+  PENDING = "PENDING",
+  PAID = "PAID",
+  SHIPPED = "SHIPPED",
+  DELIVERED = "DELIVERED",
+  COMPLETED = "COMPLETED",
+  CANCELED = "CANCELED",
+  RETURNED = "RETURNED",
+}
